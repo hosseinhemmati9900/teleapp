@@ -1,0 +1,7 @@
+{
+  "name": "TeleFinder",
+  "description": "Advanced Telegram search engine with multi-category filters, video/channel discovery, and direct Telegram bot media dispatcher",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
